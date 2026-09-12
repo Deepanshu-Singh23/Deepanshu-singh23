@@ -90,12 +90,7 @@ Generative AI        ██████░░░░░░░░
 Agentic AI           ████░░░░░░░░░░
 
 
-### 👇 ISKE JUST BAAD paste kar:
 
-```markdown
----
-
----
 
 ## 📊 GitHub Stats
 
