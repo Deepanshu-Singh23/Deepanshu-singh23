@@ -90,6 +90,8 @@ Generative AI        ██████░░░░░░░░
 Agentic AI           ████░░░░░░░░░░
 
 
+```
+
 ## 📊 GitHub Stats
 
 <div align="center">
