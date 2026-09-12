@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋, I'm Deepanshu Singh
 
-<!--
-**Deepanshu-Singh23/Deepanshu-singh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Aspiring AI Engineer 🤖
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning and Deep Learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on AI/ML projects
+- 🌱 Learning Machine Learning, Deep Learning & DSA
+- 💻 Working with Python, C, C++ and TensorFlow
+- 🎯 Goal: Become an AI Engineer
+- 🚀 Building projects and learning every day
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C
+- C++
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Keras
+- CNN
+- Computer Vision
+
+### Tools
+- Git & GitHub
+- Google Colab
+- Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### 🧠 Handwritten Digit Recognition
+CNN-based handwritten digit recognition using the MNIST dataset.
+
+**Tech:** Python • TensorFlow • Keras • CNN
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Structures & Algorithms
+- Generative AI
+- AI Engineering
+
+---
+
+## 🎯 Goals
+
+Building practical AI projects and continuously improving my programming and problem-solving skills.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+
+---
+
+⭐ Thanks for visiting my profile!
