@@ -92,7 +92,10 @@ Agentic AI           ████░░░░░░░░░░
 
 
 
-## 📊 GitHub Stats
+
+
+
+📊 GitHub Stats
 
 <div align="center">
 
@@ -102,70 +105,3 @@ Agentic AI           ████░░░░░░░░░░
 
 </div>
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Deepanshu-Singh23&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-Singh23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-Singh23&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Build AI/ML projects
-- 🔄 Improve Python & DSA
-- 🔄 Learn Deep Learning
-- 🔄 Explore Generative AI
-- 🔄 Learn Agentic AI
-- 🚀 Get an AI/ML internship
-- 🎯 Become an AI Engineer
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/deepanshu-singh-5927b7381/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Deepanshu-Singh23">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Growing 🚀**
-
-</div>
