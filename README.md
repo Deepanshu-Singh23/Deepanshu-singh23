@@ -61,7 +61,7 @@ Building practical AI projects and continuously improving my programming and pro
 
 ## 📫 Connect With Me
 
-- LinkedIn: Coming Soon
+- - LinkedIn: [Deepanshu Singh](https://www.linkedin.com/in/deepanshu-singh-5927b7381/)
 
 ---
 
