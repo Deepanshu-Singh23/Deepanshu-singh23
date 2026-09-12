@@ -63,6 +63,7 @@ Building AI projects, learning new technologies and improving every day.
 A CNN-based image classification project that recognizes handwritten digits from the MNIST dataset.
 
 **Technologies:**
+
 `Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
 
 ---
@@ -88,7 +89,7 @@ Python               ████████████░░
 DSA                  ████████░░░░░░
 Generative AI        ██████░░░░░░░░
 Agentic AI           ████░░░░░░░░░░
-
+```
 
 ---
 
@@ -102,3 +103,64 @@ Agentic AI           ████░░░░░░░░░░
 
 </div>
 
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Deepanshu-Singh23&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deepanshu-Singh23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepanshu-Singh23&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Become a strong AI/ML developer
+- 🧠 Build meaningful Generative AI projects
+- 🤖 Learn Agentic AI
+- 💻 Improve DSA and problem-solving
+- 🌐 Contribute to open-source projects
+- 💼 Get an AI/ML internship
+- 📚 Keep learning and building consistently
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshu-singh-5927b7381/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Deepanshu--Singh23-black?style=for-the-badge&logo=github)](https://github.com/Deepanshu-Singh23)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Growing.
+
+</div>
