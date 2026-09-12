@@ -14,23 +14,22 @@ I'm a Computer Science student interested in **Artificial Intelligence, Machine 
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C
-- C++
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### AI / Machine Learning
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- Keras
-- CNN
-- Computer Vision
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge)
 
-### Tools
-- Git & GitHub
-- Google Colab
-- Jupyter Notebook
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
