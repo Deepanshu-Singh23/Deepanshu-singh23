@@ -1,67 +1,90 @@
-# Hi 👋, I'm Deepanshu Singh
+<div align="center">
 
-### CSE Student | Aspiring AI Engineer 🤖
+# 👋 Hi, I'm Deepanshu Singh
 
-I'm a Computer Science student interested in **Artificial Intelligence, Machine Learning and Deep Learning**.
+### 🤖 Aspiring AI Engineer | CSE Student | Python • ML • Deep Learning
 
-- 🔭 Currently working on AI/ML projects
-- 🌱 Learning Machine Learning, Deep Learning & DSA
-- 💻 Working with Python, C, C++ and TensorFlow
-- 🎯 Goal: Become an AI Engineer
-- 🚀 Building projects and learning every day
+Building AI projects, learning new technologies and improving every day.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deepanshu%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepanshu-singh-5927b7381/)
+[![GitHub](https://img.shields.io/badge/GitHub-Deepanshu--Singh23-black?style=for-the-badge&logo=github)](https://github.com/Deepanshu-Singh23)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science Engineering student
+- 🤖 Aspiring AI Engineer
+- 🐍 Currently working with Python
+- 🧠 Learning Machine Learning & Deep Learning
+- 📚 Practicing Data Structures & Algorithms
+- 🚀 Building practical AI/ML projects
+- 🎯 Goal: Become a skilled AI Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 👨‍💻 Programming Languages
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4285F4?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-4285F4?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧠 Handwritten Digit Recognition
-CNN-based handwritten digit recognition using the MNIST dataset.
 
-**Tech:** Python • TensorFlow • Keras • CNN
+A CNN-based image classification project that recognizes handwritten digits from the MNIST dataset.
+
+**Technologies:**
+`Python` `TensorFlow` `Keras` `CNN` `Computer Vision`
+
+---
+
+### 🎯 More AI Projects Coming Soon...
+
+I'm continuously working on new projects in:
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Agentic AI
+- Computer Vision
 
 ---
 
 ## 📚 Currently Learning
 
-- Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Generative AI
-- AI Engineering
-
----
-
-## 🎯 Goals
-
-Building practical AI projects and continuously improving my programming and problem-solving skills.
-
----
-
-## 📫 Connect With Me
-
-- - LinkedIn: [Deepanshu Singh](https://www.linkedin.com/in/deepanshu-singh-5927b7381/)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+Machine Learning     ███████████░░░
+Deep Learning        █████████░░░░░
+Python               ████████████░░
+DSA                  ████████░░░░░░
+Generative AI        ██████░░░░░░░░
+Agentic AI           ████░░░░░░░░░░
